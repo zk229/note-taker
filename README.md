@@ -29,3 +29,9 @@
   ## Questions
 
   If you have any questions or concerns, feel free to contact me via my [Github](https://github.com/zk229) or via [email](mailto:zkirsche229@gmail.com).
+  
+  ## Screenshots
+  
+  ![Screenshot of the landing page](./public/assets/img/img-1.png)
+  
+  ![Screenshot of the note app](./public/assets/img/img-2.png)
