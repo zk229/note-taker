@@ -1,19 +1,7 @@
-{
-  "notes": [
-    {
-      "title": "Test Title",
-      "text": "Test text",
-      "id": "b3b48520-43a4-494d-9c2c-11e9c5e2661d"
-    },
-    {
-      "title": "Test",
-      "text": "This is another test",
-      "id": "39b96c27-abe0-4a0a-a316-595f98245e6f"
-    },
-    {
-      "title": "Writing another note",
-      "text": "Filling in the text",
-      "id": "5c4991de-32df-4eb7-ac40-9bd9a8949daf"
-    }
-  ]
-}
+[
+  {
+    "title": "Note 2",
+    "text": "This is also a test note",
+    "id": "3626c769-b652-4b11-ab79-3bb2205ef49d"
+  }
+]
